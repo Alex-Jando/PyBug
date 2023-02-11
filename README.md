@@ -7,7 +7,7 @@
 - Allows you to search for articles related to any question you may have
 
 ## Installation / Setup
-- Install **PyBug** using pip by typing `pip install pybug` in your terminal
+- Install **PyBug** using pip by typing `pip install py-bugs` in your terminal
 - Open a new python file once **PyBug** is installed
 - At the begining of the file type the following:
 ```
